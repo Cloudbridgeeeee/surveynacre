@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for SurveyNacre.
 - Industry: Market Research, Business Intelligence, Natural Language Processing
 - Founder: Tolulope Alabi (Founder & CEO)
 - Co-founder: Emmanuel Okorie (Co-founder & CTO)
-- Contact: tolulope@surveynacre.top
+- Contact: tolulope@surveynacre.site
 - Business model: Response-volume subscriptions
 
 ## Stack

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="r" cx="0.8" cy="0" r="0.9"><stop offset="0" stop-color="#c2185b" stop-opacity=".35"/><stop offset="1" stop-color="#f8f5f0" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#f8f5f0"/>
+  <rect width="1200" height="630" fill="url(#r)"/>
+  <g transform="translate(80 90) scale(1.4)"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c2185b"/><stop offset="1" stop-color="#5b3fd1"/></linearGradient></defs><path d="M32 4l6 20 20 8-20 8-6 20-6-20-20-8 20-8z" fill="url(#g)"/><circle cx="50" cy="14" r="5" fill="#f29d38"/></g>
+  <text x="190" y="150" font-family="Bodoni Moda, Georgia, serif" font-size="54" font-weight="600" fill="#1d1726">SurveyNacre</text>
+  <text x="80" y="330" font-family="Bodoni Moda, Georgia, serif" font-size="72" font-weight="600" fill="#1d1726">Turn survey responses into</text>
+  <text x="80" y="414" font-family="Bodoni Moda, Georgia, serif" font-size="72" font-weight="600" fill="#1d1726">useful research insights.</text>
+  <text x="80" y="560" font-family="monospace" font-size="24" fill="#c2185b" letter-spacing="4">MARKET RESEARCH  ·  BUSINESS INTELLIGENCE  ·  NATURAL LANGUAGE PROCESSING</text>
+</svg>

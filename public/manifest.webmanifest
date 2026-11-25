@@ -1,0 +1,16 @@
+{
+  "name": "SurveyNacre",
+  "short_name": "SurveyNacre",
+  "description": "AI survey analysis software that classifies open-ended responses, discovers recurring themes and produces evidence-linked research reports.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f5f0",
+  "theme_color": "#f8f5f0",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
